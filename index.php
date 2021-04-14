@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Mommyfy</title>
+        <title>DiaLove</title>
         <link rel="apple-touch-icon" sizes="180x180" href="/mommyfy/media/images/icons/coins.svg">
         <link rel="icon" type="image/png" sizes="32x32" href="/mommyfy/media/images/icons/coins.svg">
         <link rel="icon" type="image/png" sizes="16x16" href="/mommyfy/media/images/icons/coins.svg">
@@ -34,7 +34,7 @@
                 <input type="text" id="phone">
                 </div>
                 <div class="authEmail authBlock">
-                     
+
                 </div>
             </div>
         	<div class="loginButton">-></div>
