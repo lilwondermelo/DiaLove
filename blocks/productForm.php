@@ -1,2 +1,2 @@
-<input type="text" placeholder="Название товара">
-<div class="button addButton" onclick="toggleOverlay();">Готово</div>
+<input type="text" placeholder="Название товара" id="editProductName">
+<div class="button addButton" onclick="editProduct()">Готово</div>

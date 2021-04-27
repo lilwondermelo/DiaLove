@@ -26,6 +26,9 @@ class Product {
     public function setOwner($owner) {
         $this->owner = $owner;
     }
+    public function expose() {
+        return get_object_vars($this);
+    }
 
 }
 ?>

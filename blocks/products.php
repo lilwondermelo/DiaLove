@@ -1,4 +1,5 @@
-<?php
-	echo $products->getProductList()[0]->getName();
-?>
-<div class="button addButton" onclick="toggleOverlay();">Добавить продукт</div>
+<div class="productList">
+
+</div>
+<div class="button addButton" onclick="editProductForm('new');">Добавить продукт</div>
+

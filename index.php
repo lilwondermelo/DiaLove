@@ -22,7 +22,6 @@ $products = new ProductsController();
         </div>
         <div class="overlay">
             <div class="overlayInner">
-                <?php require 'blocks/productForm.php'; ?>
             </div>
         </div>
 
